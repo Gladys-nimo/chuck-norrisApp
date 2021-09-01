@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chuck-norrisApp/static/css/main.17ed562e.chunk.css",
+    "main.js": "/chuck-norrisApp/static/js/main.b924be39.chunk.js",
+    "main.js.map": "/chuck-norrisApp/static/js/main.b924be39.chunk.js.map",
+    "runtime-main.js": "/chuck-norrisApp/static/js/runtime-main.e499b929.js",
+    "runtime-main.js.map": "/chuck-norrisApp/static/js/runtime-main.e499b929.js.map",
+    "static/js/2.ee6e3c19.chunk.js": "/chuck-norrisApp/static/js/2.ee6e3c19.chunk.js",
+    "static/js/2.ee6e3c19.chunk.js.map": "/chuck-norrisApp/static/js/2.ee6e3c19.chunk.js.map",
+    "index.html": "/chuck-norrisApp/index.html",
+    "static/css/main.17ed562e.chunk.css.map": "/chuck-norrisApp/static/css/main.17ed562e.chunk.css.map",
+    "static/js/2.ee6e3c19.chunk.js.LICENSE.txt": "/chuck-norrisApp/static/js/2.ee6e3c19.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chuck-norrisApp/static/media/imgbg.f4b1f974.jpeg",
+    "static/media/logo.e4dfdc56.svg": "/chuck-norrisApp/static/media/logo.e4dfdc56.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e499b929.js",
+    "static/js/2.ee6e3c19.chunk.js",
+    "static/css/main.17ed562e.chunk.css",
+    "static/js/main.b924be39.chunk.js"
+  ]
+}
